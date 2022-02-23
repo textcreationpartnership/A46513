@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation James the Seventh by the grace of God, King of Scotland, England, France and Ireland ... we have taken into our royal consideration the many and great inconveniences which have happened to that our ancient kingdom of Scotland of late years, through the different perswasions in the Christian religion, and the great heats and animosities among the several professors thereof, to the ruine and decay of trade, wasting of lands, extinguishing of charity, contempt of royal power, and converting of true religion and fear of God into animosities, names, factions, and sometimes into sacriledge and treason ...</title>
+            <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46513</idno>
+            <idno type="STC">Wing J250</idno>
+            <idno type="STC">ESTC R37015</idno>
+            <idno type="EEBO-CITATION">16185520</idno>
+            <idno type="OCLC">ocm 16185520</idno>
+            <idno type="VID">105007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:94)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation James the Seventh by the grace of God, King of Scotland, England, France and Ireland ... we have taken into our royal consideration the many and great inconveniences which have happened to that our ancient kingdom of Scotland of late years, through the different perswasions in the Christian religion, and the great heats and animosities among the several professors thereof, to the ruine and decay of trade, wasting of lands, extinguishing of charity, contempt of royal power, and converting of true religion and fear of God into animosities, names, factions, and sometimes into sacriledge and treason ...</title>
+                  <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh printed by the heir of Andrew Anderson ... [reprinted at London] by George Croom ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1686/7 [i.e. 1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 5 lines of text.</note>
+                  <note>"This may be reprinted February the 28th. [signed] R.L.S. [i.e. Roger L'Estrange]"</note>
+                  <note>"Given at our Court at White-hall, the twelfth of February 1686/7. And of our reign the third year."</note>
+                  <note>Imperfect: torn and creased, with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Scotland.</term>
+               <term>Catholics --  Civil rights --  Scotland.</term>
+               <term>Religious tolerance --  Scotland.</term>
+               <term>Scotland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:105007:1"/>
+            <head>By the King. A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <hi>JAMES</hi> R.</signed>
+            </opener>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">J</seg>AMES</hi> the ſeventh by the Grace of God; King of <hi>Scotland, England, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed> 
+               <salute>To all and ſunury our good Subjects, whom theſe preſents do or may concern, Greeting:</salute>
+            </opener>
+            <p>We having taken into our Royal conſideration the many and great inconveniencies which have happened to that Our ancient Kingdom of <hi>Scotland</hi> of late years, through the different perſwaſions in the Chriſtian Religion, and the great Heats and animoſities among the ſeveral Proſeſſors thereof, to the ruine and decay of Trade, waſting of Lands, extinguiſhing of Charity, contempt of the Royal Power, and converting of true Reli<g ref="char:EOLhyphen"/>gion and the fear of God, into Animoſities, Names, Factions, and ſomtimes into Sacriledge and Treaſon. And being reſolved as much as in Uslyes, to Unite the Hearts and Affections of our Subjects to God in Religion, to Us in Loyalty and to their Neighbours in Chriſtian Love and Charity, Have therefore thought fit to Grant, and by our Soveraign Authority, Prerogative Royal and abſolute power, which all our Subjects are to obey without Relieve, Do hereby give and Grant Our Royal Tolleration to the ſeveral Proſeſſors of the Chriſtian Religion alter named, with and under the ſeveral Conditions, Restrictions and Limi<g ref="char:EOLhyphen"/>mitations after-mentioned. In the firſt place, we allow and Tollerate the moderate Preſbyterians, to Meet in their private Houſes, and there to hear all ſuch Miniſters, as either have or are willing to accept of Our Indulgence Allanerly, and none other, and that there be not any thing ſaid or done contrary to the well and peace of Our Reign, Seditious or Treaſonable, under the higheſt Pains theſe Crimes will Import; nor are they to preſume to build Meeting-Houſes, or to Uſe Out-Houſes or Barns, but only to Exerciſe in their privat Houſes as ſaid is: In the mean time it is our Royal will and pleaſure that Field Conventicles and ſuch as Preach or exerciſe at them, or who ſhall any ways Aſſiſt or Counive at them, ſhall be proſecuted according to the utmoſt ſeverity of Our Laws made againſt them, ſeeing from theſe Rendezvouzes of Religion, ſo much Diſor<g ref="char:EOLhyphen"/>der hath proceeded, and ſo much diſturbance to the Government; and for which after this our Royal Indulgence for tender Conſciences there is no Excuſe left. In like manner, We do hereby Tollerate Quakers, to meet and exerciſe in their Form, in any Place or Places appointed for their Worſhip. And conſidering the ſevere and cruel Laws made againſt <hi>Roman</hi> Catholicks (therein called <hi>Papiſbs</hi>) in the Minority of Our Royal Grand-Father of Glorious Memory, without his Conſent, and contrary to the duty of good Subjects, by his Regents and other Enemies to their Lawful Soveraign, our Royal Great Grand-Mother Queen <hi>Mary</hi> of Bleſſed and Pious Memory, wherein under the pre<g ref="char:EOLhyphen"/>tence of Religion they Cloathed the worſt of Treaſons, Factions, and Uſurpations, and made theſe Laws, not as againſt the Enemies of God, but their own; which Laws have ſtill been continued of Courſe, without deſign of Executing them, or any of them, <hi>ad terrorem</hi> only, on Suppoſition that the <hi>Papiſts</hi> relying on an External Power, were incap<g ref="char:EOLhyphen"/>able of Duty and true Allegiance to their natural Soveraigns, and Rightful Monarchy: We of Our certain Knowledge, and long Experience, knowing that the Catholicks, as it is their principle to be good Chriſtians, ſo it is to be dutiful Subjects, and that they have likewiſe on all Occaſions ſhown themſelves good and faithful Subjects to Us, and Our Royal Predeceſſors, by hazarding and many of them actually loſing their Lives and Fortunes in their Defence (though of another Raligion) and the maintenance of their Authority againſt the Violences and Treaſons of the moſt violent Abbetrors of theſe Laws, Do therefore with Advice and Conſent of Our Privy Council, by Our Soveraign Authority; Prerogative Roya, and Abſolute Power aforeſaid, Suſpend, Stop, and Diſable all Laws and Acts of Parliament, Cuſtoms or Conſtitutions made or Executed againſt any of our <hi>Roman</hi> Catholick Subjects, in any time paſt to all intents and purpoſes, making void all prohibitions therein mentioned, Pains or Penalties therein Ordained to be Inflicted, ſo that they ſhall in all things be as free in all reſpects as any of our Proteſtant Subjects whatſoever, not only to exerciſe their Religion, but to enjoy all Offices Benefices, and others, which We ſhall think fit to beſtow upon them in all time coming: Neverthleſs it is Our Will and Pleaſure, and We do hereby Command all Catholicks at their higheſt Pains, only to exerciſe their Religious Worſhip in Houſes or Chappels; and that they preſume not to Preach in the open Fields, or Invade the Proteſtant Churches by force, under the pains aforeſaid, to be inflicted upon the Offenders reſpectively, nor shall they preſume to make publick Proceſſions in the High-Streets of any of Our Royal Burghs, under the Pains above-mentioned: And whereas the Obedience and Service of Our good Subjects is due to Us by their Allegiance, and Our Soveraignity and that no Law, Cuſtom, or Conſtitution, Difference in Religion, or other impediment whatſoever can exempt or diſcharge the Subjects from their Native Obligations and Duty to the Crown, or hinder Us from protecting and employing them, according to their ſeveral Capacities, and Our Royal Pleaſure, nor reſtrain us from conſering Heretable Rights, and Priviledges upon them, or Vacuate or Annul theſe Rights Heretable, when they are made or conferred: And likwiſe conſidering that ſome Oaths are capable of being Wreſted by Men of Siniſtruous Intentions, a practice in that Kingdom fatal to Religion, as it was to Loyalty; Do therefore, with Advice and Conſent aforeſaid, Caſs, Annul and Diſcharge all Oaths whatſoever, by which any of Our Subjects are incapacitated or diſabled from holding Places, or Offices in Our ſaid Kindom, or enjoying their Hereditary Rights and Priviledges, Diſcharging the ſame to be taken or given in any time coming, without Our ſpecial Warrand and Conſent, under the pains due to the Contempt or our Royal Commands and Authority; and to this effect, we do by Our Royal Authority aforeſaid, Stop, Diſable, and Diſpence with all Laws enjoyning the ſaids Oaths, Teſts, or any of them, particularly the firſt Act of the firſt Seſſion of the firſt Parliament of King <hi>Charles</hi> the Second; the eleventh Act of the foreſaid Seſſion of the foreſaid Parliament; the ſixth Act of the third Parliament of the ſaid King <hi>Charles</hi>; the twenty firſt and twenty fifth Acts of that Parliament; and the thirteenth Act of the firſt Seſſion of Our late Parliament, in ſo far allanerly as concerns the taking the Oaths or Teſts therein preſcribed, and all others, as well not men<g ref="char:EOLhyphen"/>tioned as mentioned, and that in place of them, all Our good Subjects, or ſuch of them as We or Our Privy Council ſhall require ſo to do, ſhall take and Swear the following Oath allanerly, I <hi>A.B. Do acknowledge, Teſtifie and Declare, that</hi> JAMES <hi>the Seventh by the Grace of God, King of</hi> Scotland, England, France <hi>and</hi> Ireland, <hi>Defender of the Faith,</hi> &amp;c. <hi>is rightful King, and Supream Governour of theſe Realms, and over all perſons therein, and that it is unlawful for Subjects, on any pretence, or for any cauſe whatſoever to riſe in Arms againſt Him, or any Commiſſionated by him; and that I shall never to riſe in Arms, nor Aſſiſt any who ſhall do ſo; and that I ſhall never reſiſt his Power or Authority, nor ever Oppoſe His Authority, to His Perſon, as I ſhall anſwer to God, but ſhall to the utmoſt of my Pewer Aſſiſt, Defend, and Maintain Him, his Heirs and Lawful Succeſſours, in the Exerciſe of Their abſolute Power and Authority, againſt all Deadly,</hi> so help me God. And ſeeing many of Our good Subjects have, before Our Pleasure in theſe matters was made publick, incurred the Guilt appointed by the Acts of Parliament above-mentioned, or others; we by Our Authority and abſolute Power, and Prerogative Royal above-mentioned of our certain Knowledge, and innate Mercy, Give Our ample and full Indemnity to all thoſe of the <hi>Roman</hi>-Catholick or <hi>Popiſh</hi> Religion, for all things by them done contrary to Our Laws or Acts of Parliament, made in any time paſt relating to their Religion, the Worſhip and Exerciſe thereof, an for being Papiſts, Jeſuits, or Traſſickers, for hearing or ſaying of Maſs, Concealing of Prieſts or Jeſuits, or breeding their Children Catholicks at home or abroad, or any other thing, Rite, or Doctrine, ſaid, performed or maintained by them, or any of them: And likewiſe for holding or takeing of Places, Employments, or Offices, controry to any Law or Conſtitution, Advices given to Us or Our Council, Actions done, or gene<g ref="char:EOLhyphen"/>rally any thing performed or ſaid againſt the known Laws of that Our Ancient Kingdom; Excepting always from this Our Royal Indemnity all Murders Aſſaſinations Thefts and ſuch like other Crimes, which never uſed to be comprehended in Our general Acts of Indemnity. And We command and require all Our Judges, or others concerned, to explain this in the moſt ample ſenſe and meaning Acts of Indemnity at any time have contained: Declaring this ſhall be as good to every one concereed, as if they had our Royal Pardon and Remiſſion under Our Great Seal of that Kingdom, And likwiſe Indemnifying Our Proteſtant Subjects from all Pains and Penalties due for hearing or Preaching in Houſes; provided there be no Treaſonable Speeches uttered in the ſaid Conventicles by them, in which Caſe the Law is only to take place againſt the Guilty, and none other preſent: Providing alſo that they Reveal to any of our Council the Guilt ſo Committed, As alſo excepting all Fines or effects of Sentences already given: and likwiſe indemnifying fully and freely all Quakers for their Meeting and Worships in all time paſt, preceeding the publication of theſe Preſents; and we doubt not but Our Proteſtant Subjects will give their Aſſiſtance and Concourſe hereunto on all occaſions, in their reſpective Capacities: In conſideration whereof, and the Eaſe thoſe of Our Religion and others may have hereby, and for the Encouragement of our Proteſtant Biſhops, and the Regular Clergy, and ſuch as have hitherto lived Orderly, We think fit to declare, that it never was our Principles, nor will we ever ſuffer Violence to be offered to any Mans Conſcience, nor will we uſe Force or invinſible neceſſity againſt any Man on the account of his Perſwaſion, nor the Proteſtant Religion, but will protect Our Biſhops and other Miniſters in their Functions, Rights, and Properties, and all Our Proteſtant Subjects in the free exerciſe of their Proteſtant Religion in the Churches; and that we will and hereby promiſe on Our Royal Word, to maintain the Poſſeſſors of Church-Lands formerly belonging to Abbeys, or other Churches of the Catholick Religion, in their full and free poſſeſſion and Right, accordiug to our Laws and Acts of Parliament in that behalf in all time coming; and We will employ indifferently all our Subjects, of all Perſwaſions ſo as none ſhall meet with any Diſcouragement on the account of his Religion, but be advanced and eſteemed by Us, acording to their ſeveral Capacities, and Qualifications, ſo long as we find Charity and Unity maintained; and if any Animoſities ſhall Ariſe, as We hope in God there will not, We will ſhow the ſevereſt Effects of Our Royal Diſpleaſure againſt the Beginners or Fomenters thereof. Seeing thereby Our Subjects may be deprived of this general Eaſe and Satisfaction, We intend to all of them, whoſe Happineſs, Proſpirity, Wealth and Safety, is ſo much Our Royal Care, that We will leave nothing undone which may procure theſe Bleſſings for them. And Laſtly to the end all our good Subjects may have notice of this Our Royal Will and Pleaſure, We do hereby command Our Lyon King at Arms and his Bethren Heraulds, Macers, Purſevants and Meſſengers at Arms, to make timeous Procla<g ref="char:EOLhyphen"/>mation thereof at the Mercat Croſs of <hi>Edinburgh</hi>; and beſides the Printing and Publiſhing of this Our Royal Proclamation, it is Our expreſs will and Pleaſure that the ſame be paſt under the Great Seal of that Our Kingdom <hi>per ſaltum,</hi> without paſing any other Seal or Regiſter: In order whereunto this ſhall be to the Directors of Our Chancellary and their Deputies for Writing the ſame, and to Our Chancellor, for cauſing Our Great Seal aforeſaid to be Appended thereunto, a ſufficient Warrand,</p>
+            <closer>
+               <dateline>
+                  <hi>Given at our Court at</hi> White-hall, <date>
+                     <hi>the Twelfth of</hi> February 1686/7, <hi>And of Our Reign the Third Year.</hi>
+                  </date>
+               </dateline>
+               <signed>By His <hi>Majeſties</hi> Command, <hi>MELFORT.</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburg,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> Anno <hi>Dom.</hi> 1687.</p>
+         </div>
+         <div type="license">
+            <p>This may be Reprinted <hi>February</hi> the 28th. <hi>R.L.S.</hi> By <hi>George room,</hi> at the <hi>Blue Ball</hi> in <hi>Thomes-ſtreets,</hi> near <hi>Baynard's-Caſtle,</hi> 1686/7</p>
+         </div>
+      </back>
+   </text>
+</TEI>
